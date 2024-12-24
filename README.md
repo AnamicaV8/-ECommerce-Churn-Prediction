@@ -1,5 +1,4 @@
 # ECommerce-Churn-Prediction
-# **README: Ecommerce User Churn Prediction Model
 
 Customer churn significantly impacts the profitability of ecommerce platforms, making it essential to identify and retain at-risk users. This project leverages machine learning techniques to predict churn and provide actionable insights to improve user retention, satisfaction, and overall platform performance.
 
